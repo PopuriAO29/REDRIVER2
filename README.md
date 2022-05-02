@@ -1,5 +1,11 @@
 # REDRIVER2 (Reverse-Engineered Driver 2)
 
+This is the repository for REDRIVER2, a game originally made for Infogrames as Publisher and Developed by Reflections Interactive.
+
+IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
+
+----
+
 Game running on Windows:
 
 ![](https://i.ibb.co/2q1pp06/red2.png)
@@ -48,3 +54,11 @@ See [Contributing to project](https://github.com/OpenDriver2/REDRIVER2/wiki/Cont
 - **Gh0stBlade** - HLE Emulator code used as a base for Psy-Cross [(link)](https://github.com/TOMB5/TOMB5/tree/master/EMULATOR)
 - **Ben Lincoln** - [This Dust Remembers What It Once Was](https://www.beneaththewaves.net/Software/This_Dust_Remembers_What_It_Once_Was.html) (*TDR*)
 - **Stohrendorf** - [Symdump](https://github.com/stohrendorf/symdump) utility
+
+# Build instructions
+THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
+
+IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY THE GAME NORMALLY, GO TO APPVEYOR TO DOWNLOAD THE GAME FOR PC AND LINUX!
+
+### Installing the Required Programs
+If you are Windows user, use the Visual Studio 2019 immediately!
